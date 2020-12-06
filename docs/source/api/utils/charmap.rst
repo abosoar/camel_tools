@@ -107,4 +107,4 @@ Utility
     - Converting all spacing characters to an ASCII space character.
     - Converting Indic digits into Arabic digits.
     - Converting extended Arabic letters into basic Arabic letters.
-    - Converting 1-char presentation froms into simple basic forms.
+    - Converting 1-char presentation forms into simple basic forms.
